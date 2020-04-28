@@ -2,4 +2,4 @@ this is a new file!
 hello nihaoma
 
 github机器人token:
-https://oapi.dingtalk.com/robot/send?access_token=f08871ba9e82d4b4a2a13b69f1c912399f80d2af3ada0542cd21a2aa89a57bd3
+https://oapi.dingtalk.com/robot/send?access_token=96a3bd5861d95f55ad6582d55617e59aec1f18454bf31b55bec18321b43c3cdd
