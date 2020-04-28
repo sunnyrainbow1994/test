@@ -1,6 +1,5 @@
 this is a new file!
 hello nihaoma
-青春会美丽是因为容易单纯的悸动
-爱情会美丽是因为甜蜜后的泪水
-只是心中枷锁如何才能解脱
-我可以很久不和你联络
+
+github机器人token:
+https://oapi.dingtalk.com/robot/send?access_token=f08871ba9e82d4b4a2a13b69f1c912399f80d2af3ada0542cd21a2aa89a57bd3
